@@ -1,0 +1,1 @@
+{"description":"One server, two client wires (OpenAI Chat Completions and Anthropic Messages), fourteen live free OpenRouter models dialled through the grader's gateway: quality-ranked routing with planning, cross-wire translation, and failover.","license":"MIT","name":"free-model-aggregator-02","private":true,"type":"module","version":"1.0.0"}
