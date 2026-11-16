@@ -1,5 +1,11 @@
 # free-model-aggregator-02
 
+[![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/Khanhduy203/free-model-aggregator-02/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/Khanhduy203/free-model-aggregator-02/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+
+Entry for the [make.fun free-model-aggregator-02 bounty](https://make.fun/bounty/free-model-aggregator-02).
+
 One server, two client wires, fourteen live free models — an entry for the make.fun competition
 **free-model-aggregator-02** ("The best live free-model aggregator", opened 2026-11-15T03:30Z).
 
